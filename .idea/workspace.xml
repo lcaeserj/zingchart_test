@@ -26,6 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -101,6 +102,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="372" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/1083.-1040.1920.1040@0.0.1280.680" timestamp="1604231847558" />
+    <state x="1609" y="-926" key="CommitChangelistDialog2" timestamp="1604239959875">
+      <screen x="1083" y="-1040" width="1920" height="1040" />
+    </state>
+    <state x="1609" y="-926" key="CommitChangelistDialog2/0.0.1280.680/1083.-1040.1920.1040@1083.-1040.1920.1040" timestamp="1604239959875" />
     <state x="422" y="96" key="FileChooserDialogImpl" timestamp="1604048321692">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
