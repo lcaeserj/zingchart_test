@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="2d2ac205-bb48-442e-b7c2-71e8ea8344ad" />
   <component name="ProjectId" id="1jXwp2Nuwls6a97DU4DC2LT8jll" />
   <component name="ProjectViewState">
